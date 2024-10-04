@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Opdracht_10</title>
+</head>
+<body>
+<h1>Opdracht 10</h1>
+<ul>
+  <li>een</li>
+  <li>twee</li>
+  <ol>
+    <li>jan</li>
+    <li>piet</li>
+    <li>joris</li>
+  </ol>
+  <li>vier</li>
+</ul>
+<p>De debugger zegt: 'element ol is not allowed here'. Het probleem is dat je een ol binnenin een ul gebruikt.</p>
+<br>
+<p>Als je bijvoorbeeld ol als list item van ul maakt dan heb je geen warnings en verkrijg je dit:</p><br>
+<ul>
+    <li>een</li>
+    <li>twee</li>
+    <li><ol>
+        <li>jan</li>
+        <li>piet</li>
+        <li>joris</li>
+    </ol></li>
+    <li>vier</li>
+</ul>
+</body>
+</html>
