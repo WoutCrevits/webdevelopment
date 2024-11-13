@@ -1,0 +1,47 @@
+body > section > header, body > section > section, body > section > nav {
+    width: 95%;
+    margin: 0 auto;
+}
+
+header > h1 {
+    font-family: Verdana, sans-serif;
+}
+
+article > header > h1 {
+    font-size: 30px;
+    text-decoration: black underline;
+    margin-top: 10px;
+    padding-top: 30px;
+}
+
+section > header > h1 {
+    font-size: 40px;
+    color : white;
+    padding-left: 10px;
+}
+
+body > section >header{
+    background-repeat: no-repeat;
+    background-image: url(../images/header.jpg);
+    background-size: cover;
+    height: 100px;
+}
+
+nav {
+    background-color: darkslategrey;
+}
+
+nav > a {
+    color: lightgreen;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+article {
+    background-color: lightgrey;
+}
+
+section > footer {
+    font-size: 13px;
+    padding-left: 25px;
+}
