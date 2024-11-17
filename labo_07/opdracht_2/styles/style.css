@@ -1,0 +1,43 @@
+body {
+    margin: 0 auto;
+    width: 100%;
+    font-family: verdana, sans-serif;
+    background: lightgrey;
+}
+
+header > h1 {
+    font-size: 50px;
+    color: red;
+    padding-left: 30px;
+}
+
+li {
+    list-style-type: square;
+}
+
+a {
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+a:hover {
+    font-variant: small-caps;
+    font-weight: bold;
+    color: red;
+    border: 1px solid black;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.mezelf {
+    margin-left: 20px;
+    width: 300px;
+    height: 200px;
+}
+
+table {
+    margin-left: 30px;
+}
