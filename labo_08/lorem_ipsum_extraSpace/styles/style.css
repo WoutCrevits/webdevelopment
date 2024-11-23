@@ -1,0 +1,7 @@
+section {
+    display: inline-block;
+    width: calc(50% - 14px);
+    border: solid black 1px;
+    box-sizing: border-box;
+    margin: 0 5px;
+}
