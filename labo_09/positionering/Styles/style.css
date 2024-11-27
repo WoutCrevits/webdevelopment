@@ -1,0 +1,31 @@
+body {
+    background-color: lightgrey;
+}
+
+article:nth-of-type(odd) > p > img {
+    display: block;
+    float: left;
+    box-sizing: border-box;
+    padding-right: 10px;
+}
+
+article:nth-of-type(even) > p > img {
+    display: block;
+    float: right;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+
+article {
+    display: block;
+    border: solid black 1px;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.25em;
+    overflow: hidden;
+}
+
+h2 {
+    margin-top: 0;
+}
