@@ -1,0 +1,15 @@
+.row>div {
+    border: 1px solid black;
+    min-height: 150px;
+    background-clip: content-box;
+}
+
+table, th, td {
+    border: 1px solid black;
+    margin: auto;
+}
+
+img {
+    max-width: 25%;
+    max-height: 25%;
+}
