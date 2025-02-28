@@ -6,3 +6,7 @@ input {
     height: 75px;
     background-color: white;
 }
+
+.colored {
+    background-color: lightblue;
+}

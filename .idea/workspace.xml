@@ -7,7 +7,20 @@
     <list default="true" id="bc8a130d-1779-4f2d-b1c1-bc0a03970290" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_02/opdracht_substring/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_02/opdracht_substring/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/colorPicker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/colorPicker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/colorPicker/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/colorPicker/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/kleurenWisselaar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/kleurenWisselaar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/kleurenWisselaar/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/kleurenWisselaar/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/kleurenWisselaar/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/kleurenWisselaar/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/paragrafen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/paragrafen/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/producten/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/producten/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/.idea/Empty Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/scripts/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/styles/index.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +114,12 @@
       <workItem from="1739701052911" duration="1314000" />
       <workItem from="1739865262943" duration="721000" />
       <workItem from="1739885897763" duration="3229000" />
-      <workItem from="1740681939477" duration="11310000" />
+      <workItem from="1740681939477" duration="11508000" />
+      <workItem from="1740693935046" duration="12000" />
+      <workItem from="1740693954852" duration="427000" />
+      <workItem from="1740742262879" duration="832000" />
+      <workItem from="1740752377760" duration="475000" />
+      <workItem from="1740759809334" duration="2679000" />
     </task>
     <servers />
   </component>

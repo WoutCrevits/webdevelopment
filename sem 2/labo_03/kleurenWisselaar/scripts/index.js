@@ -7,15 +7,7 @@ const setup = () => {
 
 const pressed = (e) => {
     let clickedButton = e.currentTarget;
-    if (clickedButton.className === "btn not_colored") {
-        clickedButton.classList.replace("not_colored", "colored");
-        clickedButton.style.backgroundColor = "lightblue";
-    }
-    else {
-        clickedButton.classList.replace("colored", "not_colored");
-        clickedButton.classList.remove("colored");
-        clickedButton.style.backgroundColor = "white";
-    }
+    clickedButton.classList.toggle("colored");
 }
 
 window.addEventListener('load', setup);

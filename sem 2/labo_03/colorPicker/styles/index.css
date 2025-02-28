@@ -9,6 +9,8 @@ div {
     grid-column-end: 4;
     grid-row-start: 1;
     grid-row-end: 4;
+    border: black solid 1px;
+    border-radius: 15px;
 }
 
 p {
