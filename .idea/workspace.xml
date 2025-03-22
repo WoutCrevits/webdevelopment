@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc8a130d-1779-4f2d-b1c1-bc0a03970290" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sem 2/labo_05/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/colorPicker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/colorPicker/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/colorPicker/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/colorPicker/styles/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/kleurenWisselaar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/kleurenWisselaar/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/kleurenWisselaar/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/kleurenWisselaar/scripts/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/kleurenWisselaar/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/kleurenWisselaar/styles/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/paragrafen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/paragrafen/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_03/producten/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem 2/labo_03/producten/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/.idea/Empty Project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/scripts/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem 2/labo_04/Empty Project/styles/index.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +48,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mijnk/Documents/School/2024-2025/Web Development 1/gitHub/webdevelopment&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mijnk/Downloads/demo events/demo events&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -119,7 +106,12 @@
       <workItem from="1740693954852" duration="427000" />
       <workItem from="1740742262879" duration="832000" />
       <workItem from="1740752377760" duration="475000" />
-      <workItem from="1740759809334" duration="2679000" />
+      <workItem from="1740759809334" duration="2734000" />
+      <workItem from="1740831532135" duration="1176000" />
+      <workItem from="1740997818528" duration="187000" />
+      <workItem from="1742031977733" duration="1073000" />
+      <workItem from="1742303138845" duration="6829000" />
+      <workItem from="1742630926924" duration="4039000" />
     </task>
     <servers />
   </component>
